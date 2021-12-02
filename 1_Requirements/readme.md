@@ -43,4 +43,10 @@ Note that to know winding coil and their center tap leads measure resistance in 
 4. Number of executions is limited.
 
 #### Opportunities
-1. 
+1. Future scope is much good
+2. It makes our poject work easier
+3  Opportunities in research area on stepper motor applications
+
+#### Threats
+1. New developing technology in embedded system and electronics may affect its use in future
+
