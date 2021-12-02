@@ -35,7 +35,7 @@ Note that to know winding coil and their center tap leads measure resistance in 
 1. Simple 
 2. Low-powered
 3. Low-cost micro-controller is needed. 
-
+4. We can analyze the performace of stepper motor without actual doing operation on it by using this technique.
 #### Weaknesses
 1. It is generally utilized in micro equipment.
 2. It has a complex structure.
